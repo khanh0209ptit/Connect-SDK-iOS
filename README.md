@@ -1,4 +1,4 @@
-#Connect SDK iOS
+#Connect SDK iOS --- Do Quang Khanh
 
 [![Build Status](https://travis-ci.org/ConnectSDK/Connect-SDK-iOS.svg)](https://travis-ci.org/ConnectSDK/Connect-SDK-iOS)
 [![Code Coverage](https://img.shields.io/codecov/c/github/ConnectSDK/Connect-SDK-iOS/dev.svg)](https://codecov.io/github/ConnectSDK/Connect-SDK-iOS)
